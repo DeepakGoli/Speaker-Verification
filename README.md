@@ -5,4 +5,4 @@ Speaker Verification system with MFCC features on IIT Dh database.
 
 2)util_functions.py consists of code for detecting the end points of a speech and automatically segment the speech (i,e dividing the speech file into frames ).
 
-3)
+3) spectral_features.py contains code to generate mfcc features for a frame of speech.
